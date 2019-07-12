@@ -1,0 +1,15 @@
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\service\TaskService.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\dao\TaskDao.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\controller\TaskRestController.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\dao\UserDao.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\controller\UserRestController.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\entitymodel\Task.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\configuration\HibernateConfiguration.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\service\TaskServiceImpl.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\configuration\AppConfig.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\configuration\AppInitializer.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\dao\TaskDaoImpl.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\service\UserService.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\dao\UserDaoImpl.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\service\UserServiceImpl.java
+C:\Users\jillian.wysoki\eclipse-workspace\GuiltTrip_backend\src\main\java\com\guilttrip\entitymodel\User.java

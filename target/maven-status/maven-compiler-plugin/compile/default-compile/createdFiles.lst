@@ -1,0 +1,15 @@
+com\guilttrip\entitymodel\Task.class
+com\guilttrip\controller\UserRestController.class
+com\guilttrip\dao\TaskDaoImpl.class
+com\guilttrip\service\UserServiceImpl.class
+com\guilttrip\controller\TaskRestController.class
+com\guilttrip\dao\UserDaoImpl.class
+com\guilttrip\service\UserService.class
+com\guilttrip\configuration\AppConfig.class
+com\guilttrip\service\TaskService.class
+com\guilttrip\entitymodel\User.class
+com\guilttrip\service\TaskServiceImpl.class
+com\guilttrip\configuration\AppInitializer.class
+com\guilttrip\configuration\HibernateConfiguration.class
+com\guilttrip\dao\UserDao.class
+com\guilttrip\dao\TaskDao.class
