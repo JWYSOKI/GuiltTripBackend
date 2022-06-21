@@ -14,7 +14,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>5.1.4.RELEASE</spring.version>
 		<hibernate.version>4.2.18.Final</hibernate.version>
-		<mysql.connector.version>8.0.15</mysql.connector.version>
+		<mysql.connector.version>8.0.28</mysql.connector.version>
 		<!-- What is the difference between mysql.connector and mysql -->
 		<mysql.version>8.0.11</mysql.version>
 		<junit.version>4.12</junit.version>
