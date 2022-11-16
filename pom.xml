@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<springframework.version>5.1.4.RELEASE</springframework.version>
 		<mysql.connector.version>8.0.11</mysql.connector.version>
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<servlet.version>3.1.0</servlet.version>
 	</properties>
 
